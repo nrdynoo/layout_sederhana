@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laoyout Sederhana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Container -->
+
+    <div class="container">
+
+    <!-- Header -->
+
+    <header>
+        <h1 class="judul">Layout Sederhana</h1>
+    </header>
+
+    <!-- Akhir Header -->
+    
+
+
+    <!-- Navigation Bar -->
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Artikel</a>
+        <a href="#">About</a>
+        <a href="#">Kontak</a>
+    </nav>
+
+    <!-- Akhir Navigartion Bar -->
+    <!-- Description -->
+    <div class="description">
+        <h1>Hello World!</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, corrupti reprehenderit quibusdam numquam dolore temporibus culpa ut necessitatibus mollitia perspiciatis aliquam earum minima delectus nisi, ipsa, aspernatur quis dignissimos. Soluta?</p>
+        <button class="learnmore"><a href="#">Learn More >></a></button>
+    </div>
+        <!-- Akhir Description -->
+
+
+    <!-- Main Content -->
+
+    <main>
+
+        <!-- Bubble Article -->
+
+        <section class="headingcircle">
+            <div class="circle circle1">
+                <div class="lingkaran biru">120 x 120</div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, maxime.</p>
+                <button class="viewDetails"><a href="#">View Details</a></button>
+            </div>
+            <div class="circle circle2">
+                <div class="lingkaran merah">120 x 120</div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, maxime.</p>
+                <button class="viewDetails"><a href="#">View Details</a></button>
+            </div>
+            <div class="circle circle3">
+                <div class="lingkaran aqua">120 x 120</div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, maxime.</p>
+                <button class="viewDetails"><a href="#">View Details</a></button>
+            </div>
+        </section>
+
+        <!-- Akhir Bubble Article -->
+
+        <!-- Article Heading 1 -->
+
+        <section class="article">
+            <article class="heading1">
+                <h2 class="headingdua">First featurette heading.</h2>
+                <div class="kotak kotak1">150 x 150</div>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus rem, hic qui, modi optio asperiores maxime tempore recusandae nostrum placeat sed repellat voluptate doloribus suscipit cum ea deleniti aliquam autem?</p>
+            </article>
+            <article class="heading2">
+                <h2 class="headingdua">First featurette heading.</h2>
+                <div class="kotak kotak2">150 x 150</div>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis nostrum nesciunt delectus repellat excepturi doloribus ratione totam esse, fugiat doloremque tempore fugit repellendus neque commodi inventore minima, reprehenderit tempora vel!</p>
+            </article>
+        </section>
+       
+        <!-- Akhir Heading 1 -->
+
+
+    </main>
+
+    <!-- Akhir Main Content -->
+
+
+
+    <!-- Sidebar Widget Link -->
+    
+    <sidebar>
+        <div>
+            <h2>
+                <a href="#" class="widgetheader">Widget Header</a>
+            </h2>
+            <h2 class="link">
+                <a href="#" class="widgetlink">Widget Link</a>
+            </h2>
+            <h2 class="link">
+                <a href="#" class="widgetlink">Widget Link</a>
+            </h2>
+            <h2 class="link">
+                <a href="#" class="widgetlink">Widget Link</a>
+            </h2>
+            <h2 class="link">
+                <a href="#" class="widgetlink">Widget Link</a>
+            </h2>
+        </div>
+    </sidebar>
+    
+    <!-- Akhir Sidebar Widget Link -->
+
+
+    <!--Widget Text -->
+
+
+    <sidebar>
+        <div class="widget-text">
+            <h2>
+                <a href="#" class="widgetheader">Widget Text</a>
+            </h2>
+            <div class="borderwidgettext">
+                <p class="widget-paragraf">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, fugiat! Hic ducimus molestiae corrupti, non enim porro nesciunt assumenda praesentium nostrum earum. Porro culpa voluptatum tempore laudantium eos architecto fugiat!
+                </p>
+            </div>
+        </div>
+    </sidebar>
+
+    <!-- Akhir Widget Text -->
+
+
+    <!-- Footer -->
+
+    <footer>
+        <p>&#169 2023 MALFAZAKKI</p>
+    </footer>
+
+    <!-- Akhir Footer -->
+
+
+
+    </div>
+
+    <!-- Akhir Container -->
+    
+    
+</body>
+</html>
